@@ -12,6 +12,7 @@ The project create as a start template for js project with mongo db, htmx and ha
 - tailwaind
 - handlebars
 - mongodb
+- 
 
 ### First run
 

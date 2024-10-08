@@ -6,7 +6,7 @@ on:
       - 'main'
 
 env:
-  DOCKERHUB_REPO: MyProject
+  DOCKERHUB_REPO: my_project
 
 jobs:
   build_and_push:
